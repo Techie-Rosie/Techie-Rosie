@@ -25,7 +25,7 @@
  🎨 Additional Skills: Technical Support | Product Management | Business Strategy | IT Service Desk | Customer Support 
  
  📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Techie-Rosie&show_icons=true&theme=radical)
  
 
 📂 Featured Projects
