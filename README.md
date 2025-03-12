@@ -23,11 +23,17 @@
 
  
  ☁️ Cloud Platforms: AWS | Azure | GCP  
- 🔐 Security & Compliance: PCI DSS | HIPAA | Cloud Security 
+ 
+ 🔐 Security & Compliance: PCI DSS | HIPAA | Cloud Security
+ 
  ⚙️ DevOps Tools & Automation: GitHub Actions | Azure DevOps | Docker | Kubernetes | Jenkins
+ 
  💾 Infrastructure & scripting: Linux | Bash | Terraform | YAML
+ 
  📊 Monitoring: Datadog | Azure Monitor
+ 
  🛠 Version Control & Collaboration: Git | GitHub | Slack | Jira  
+ 
  🎨 Additional Skills: Technical Support | Product Management | Business Strategy | IT Service Desk | Customer Support 
  
  
