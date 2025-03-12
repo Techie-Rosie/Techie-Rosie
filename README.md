@@ -18,6 +18,7 @@
 
 🔗 [LinkedIn] https://www.linkedin.com/in/udensirose30/ | [Twitter] https://twitter.com/krimsyrossy/  
 
+ 
  🛠 Tech Stack
 
  
@@ -33,6 +34,7 @@
  📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Techie-Rosie&show_icons=true&theme=radical)
  
+
 
 📂 Featured Projects
 
@@ -56,6 +58,7 @@
 
 🔹 Tools Used: AWS Trusted Advisor, Azure Cost Management, Terraform
 🔹 Description: Implemented policies to reduce cloud costs and enforce security compliance.
+
 
 
 📂 Featured Project 2: Security & Compliance Training 🔐  
