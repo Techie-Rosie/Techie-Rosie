@@ -7,10 +7,15 @@
 
  
  Highly motivated cloud expert with a passion for :
+ 
 🔹 Designing and securing cloud infrastructure on AWS, Azure and GCP
+
 🔹 Automating workflows with Terraform, Kubernetes, and CI/CD pipelines
+
 💡 Passionate about Cloud Security, DevOps, and Cybersecurity
+
 🎓 Master's in Business & Management | 📜 Cloud & Cybersecurity Certifications  
+
 🔗 [LinkedIn] https://www.linkedin.com/in/udensirose30/ | [Twitter] https://twitter.com/krimsyrossy/  
 
  🛠 Tech Stack
@@ -23,6 +28,7 @@
  📊 Monitoring: Datadog | Azure Monitor
  🛠 Version Control & Collaboration: Git | GitHub | Slack | Jira  
  🎨 Additional Skills: Technical Support | Product Management | Business Strategy | IT Service Desk | Customer Support 
+ 
  
  📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Techie-Rosie&show_icons=true&theme=radical)
